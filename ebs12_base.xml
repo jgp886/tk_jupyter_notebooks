@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EBSDiscovery>
+  <DefaultDiscParams>
+    <NamedCreds>
+      <AppsNamedCreds></AppsNamedCreds>
+      <WlsAdminNamedCreds></WlsAdminNamedCreds>
+    </NamedCreds>
+  </DefaultDiscParams>
+  <Databases>
+    <Database>
+      <Name></Name>
+      <NamedCreds>
+        <AppsNamedCreds></AppsNamedCreds>
+        <WlsAdminNamedCreds></WlsAdminNamedCreds>
+      </NamedCreds>
+    </Database>
+  </Databases>
+</EBSDiscovery>
